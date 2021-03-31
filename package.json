@@ -12,7 +12,7 @@
   "dependencies": {
     "@tailwindcss/ui": "^0.3.0",
     "autoprefixer": "^9.8.0",
-    "countries-list": "^2.5.6",
+    "countries-list": "^2.6.1",
     "geoip-lite": "^1.4.2",
     "i18n-js": "^3.5.1",
     "next": "^10.0.0",
